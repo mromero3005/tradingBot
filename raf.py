@@ -87,24 +87,3 @@ spotPrice = client.get_spot_price().amount
 
 
 print(sellPriceL)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
